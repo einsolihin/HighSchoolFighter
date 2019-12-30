@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: d98ce4847c4c7c349b998be28739d15b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FighterStand_0
+    21300002: FighterStand_1
+    21300004: FighterStand_2
+    21300006: FighterStand_3
+    21300008: FighterStand_4
+    21300010: FighterStand_5
+    21300012: FighterStand_6
+    21300014: FighterStand_7
+    21300016: FighterStand_8
+    21300018: FighterStand_9
+    21300020: FighterStand_10
+    21300022: FighterStand_11
+    21300024: FighterStand_12
+    21300026: FighterStand_13
+    21300028: FighterStand_14
+    21300030: FighterStand_15
+    21300032: FighterStand_16
+    21300034: FighterStand_17
+    21300036: FighterStand_18
+    21300038: FighterStand_19
+    21300040: FighterStand_20
+    21300042: FighterStand_21
+    21300044: FighterStand_22
+    21300046: FighterStand_23
+    21300048: FighterStand_24
+    21300050: FighterStand_25
+    21300052: FighterStand_26
+    21300054: FighterStand_27
+    21300056: FighterStand_28
+    21300058: FighterStand_29
+    21300060: FighterStand_30
+    21300062: FighterStand_31
+    21300064: FighterStand_32
+    21300066: FighterStand_33
+    21300068: FighterStand_34
+    21300070: FighterStand_35
+    21300072: FighterStand_36
+    21300074: FighterStand_37
+    21300076: FighterStand_38
+    21300078: FighterStand_39
+    21300080: FighterStand_40
+    21300082: FighterStand_41
+    21300084: FighterStand_42
+    21300086: FighterStand_43
+    21300088: FighterStand_44
+    21300090: FighterStand_45
+    21300092: FighterStand_46
+    21300094: FighterStand_47
+    21300096: FighterStand_48
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FighterStand_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1883
+        width: 61
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60851622ae52e47458724258dea302fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1883
+        width: 61
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89c6910cc9402459cf2603876410d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1883
+        width: 61
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6273df8a831e1df498eb18a03c237eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1883
+        width: 61
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bbf6367abe6c642a09ef3bdcf5ccb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1883
+        width: 61
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243f033f0cef2f4d99c1cb513975fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_5
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1883
+        width: 61
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae93a99873931445a2bf77e3e55216a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_6
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1883
+        width: 61
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356313700877e3044995f703c70329b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_7
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1883
+        width: 61
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad4371e3f08236479c72e816853b08d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_8
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1883
+        width: 61
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995f68fd63502b499c3f3b7397c9700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1718
+        width: 60
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5491cc4e87c84782109b24a0034cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1718
+        width: 93
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced7690f0e3a3f4b919a634ab5e34bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1718
+        width: 88
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bbf89c85243e46b3ba53e1a8d1922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_12
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1718
+        width: 60
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016a198257fdcf74b9527b69d092cf4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_13
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1718
+        width: 61
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2155b415910c42b20964efe177fc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1718
+        width: 83
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f82dfb0ecf2d2641bdb5cdfecabdde8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_15
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1718
+        width: 69
+        height: 108
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4a4d5676cc984b8a309fb2f026964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_16
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1718
+        width: 98
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1a6df2ba2be4439fc6bd67d22c7fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_17
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1718
+        width: 94
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f214d2c44376408d589d275d22dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1553
+        width: 50
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceefc2f3633bc5b4e89a2454d73fbf94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1553
+        width: 50
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028dc0021037af47a5c27a95b00c3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1553
+        width: 51
+        height: 107
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d416493eb9921814cbb4779982e7388d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_21
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1553
+        width: 64
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348558e99f7158f4f8766f450a4e08e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_22
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1553
+        width: 62
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1107dfafed1ad914c95c514f39dddd8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_23
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1553
+        width: 61
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f2b87e7a9b104480efbbb1bfc9dae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_24
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1553
+        width: 47
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b7ac37424bb6d4fa1e289d67449544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_25
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1553
+        width: 54
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d854a1181124489f17cef0d262e29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_26
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1553
+        width: 79
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5104ea3b3a886014c8319894597e56ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1388
+        width: 79
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2327eadb76f84bb9a5a3b1777df27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1388
+        width: 74
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e59d93f18fd448946f1d48ce2a96f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1388
+        width: 50
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6cda12beb01ce4888061ea10a795bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_30
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1388
+        width: 61
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a39101ef5e9073408a7611c5b69ef1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_31
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1388
+        width: 58
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3de6d34ffb8d0d4fbcc7c0de9ab99d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_32
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1388
+        width: 92
+        height: 105
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df21d5bdef1f7f48bc808652e87e416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_33
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1388
+        width: 84
+        height: 105
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb000cb25070d7341b623ce51530008c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_34
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1388
+        width: 79
+        height: 105
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a748c68e5c495844b40fdb0f486626a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_35
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1388
+        width: 61
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b52859e55eaad40bca6c2e72d91c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1223
+        width: 78
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf5403df854e8418d819343db80e0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1236
+        width: 108
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7814cae58da6d144188ff9402913b126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_38
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1223
+        width: 84
+        height: 110
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26324c019eefe764a8c3f8e9632b3a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_39
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1223
+        width: 49
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4bef75fde531d4b921d719ee3c6344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_40
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1223
+        width: 78
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d67c0fdd9ac6dc4a9a7c13a29494675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_41
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1236
+        width: 108
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc675fde1dd7f7f44af1aa227ff1bfc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_42
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1223
+        width: 84
+        height: 110
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e17c5c0c06d6fa4b9e01b409ac5f4af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_43
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1223
+        width: 49
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0dd2ac493162343932d93bbf767eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_44
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1223
+        width: 55
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7487bc36e9c79d248a0e19fcde939ee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1058
+        width: 69
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b681a33f41b158a4ea6e421020520dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1058
+        width: 93
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ee710ddce02a4e975815017250551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_47
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1058
+        width: 105
+        height: 117
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18743d9c80b4ba94cb005a389ecb31aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterStand_48
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1058
+        width: 105
+        height: 117
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b0320e5ae6bd488e64163c72f1b76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1d8734d70aab52743835bf25a72bb24d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
